@@ -8,6 +8,17 @@ export default {
     },
     errorMessage: {
         color: 'orange',
-        margin: 10
+        marginTop: 10,
+        marginBottom: 10
+    },
+    colorWhite: {
+        color: 'white'
+    },
+    marginBottom: {
+        marginBottom: 10
+    },
+    label: {
+        color: 'white',
+        marginBottom: 5
     }
 }
