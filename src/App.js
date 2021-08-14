@@ -91,7 +91,7 @@ function App() {
         </div>
 
         <div className="input-field-container">
-          <label style={styles.label}>Sub Class</label>
+          <label style={styles.label}>Product Name class</label>
           <input
             className="input-text"
             style={{ marginTop: 10 }}
