@@ -21,4 +21,8 @@ export default {
     color: "white",
     marginBottom: 5,
   },
+  back: {
+    margin: 40,
+    color: "white",
+  },
 };

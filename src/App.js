@@ -129,7 +129,10 @@ function App() {
       <ParticlesJS />
       <Layout>
         {products.length > 0 ? (
-          <ShowProducts products={products} />
+          <ShowProducts 
+            products={products} 
+            setProducts={setProducts}
+          />
         ) : (
           showForm()
         )}
